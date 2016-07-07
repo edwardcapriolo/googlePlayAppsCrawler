@@ -1,0 +1,19 @@
+<changelist name="Trying_to_fix_maven_dependencies__" date="1462971671542" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Trying_to_fix_maven_dependencies__/shelved.patch" />
+  <option name="DESCRIPTION" value="Trying to fix maven dependencies. " />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/server/DBWriter.class" />
+    <option name="AFTER_PATH" value="target/classes/server/DBWriter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Trying_to_fix_maven_dependencies__/DBWriter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="lib/ARdoc_API.jar" />
+    <option name="AFTER_PATH" value="lib/ardoc-0.0.1.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Trying_to_fix_maven_dependencies__/ardoc-0.0.1.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/crawler/AppInfo.class" />
+    <option name="AFTER_PATH" value="target/classes/crawler/AppInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Trying_to_fix_maven_dependencies__/AppInfo.class" />
+  </binary>
+</changelist>
